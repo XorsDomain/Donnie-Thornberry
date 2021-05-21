@@ -1,0 +1,13 @@
+{
+  "name": "donnie-thornberry-bot",
+  "version": "1.0.0",
+  "description": "Plays his wierd audio whenever everyone talks",
+  "main": "index.js",
+  "author": "Ned",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "path": "^0.12.7"
+  }
+}
